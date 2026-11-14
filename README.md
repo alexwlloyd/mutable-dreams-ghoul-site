@@ -12,3 +12,5 @@ Mutable Dreams 1.1 or Stock V15.
 GPL-3.0-only as a whole. Source changes against Mutable Dreams 1.1 are in `source/`
 (`mutable-dreams-ghoulbox-grit.patch`, `GHOULBOX-GRIT.md`); the base is the Mutable Dreams
 project and GHOULBOX by Jason Persinger. See `GHOULBOX-GRIT.md` for credits.
+
+You can also try Mutable Dreams Ghoul Site in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
